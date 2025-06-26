@@ -1,0 +1,2 @@
+choreonoid_add_simple_controller(Kadai_SimpleCarController SimpleCarController.cpp)
+choreonoid_add_simple_controller(Kadai_CameraController CarCameraController.cpp)
